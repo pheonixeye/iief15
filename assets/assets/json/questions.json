@@ -1,0 +1,443 @@
+[
+    {
+        "index": 1,
+        "arabic_question": "ما مدى تكرار قدرتك على الحصول على انتصاب أثناء النشاط الجنسي؟",
+        "english_question": "How often were you able to get an erection during sexual activity?",
+        "answers": {
+            "0": {
+                "ar": "لا يوجد نشاط جنسي",
+                "en": "No sexual activity"
+            },
+            "1": {
+                "ar": "نادرًا أو أبدًا",
+                "en": "Almost never or never"
+            },
+            "2": {
+                "ar": "بضع مرات (أقل من نصف الوقت)",
+                "en": "A few times (less than half the time)"
+            },
+            "3": {
+                "ar": "أحيانًا (حوالي نصف الوقت)",
+                "en": "Sometimes (about half the time)"
+            },
+            "4": {
+                "ar": "معظم الوقت (أكثر من نصف الوقت)",
+                "en": "Most times (more than half the time)"
+            },
+            "5": {
+                "ar": "دائمًا أو تقريبًا دائمًا",
+                "en": "Almost always or always"
+            }
+        }
+    },
+    {
+        "index": 2,
+        "arabic_question": "عندما كان لديك انتصاب مع التحفيز الجنسي، ما مدى تكرار أن يكون صلبًا بما يكفي للإيلاج؟",
+        "english_question": "When you had erections with sexual stimulation, how often were your erections hard enough for penetration?",
+        "answers": {
+            "0": {
+                "ar": "لا يوجد نشاط جنسي",
+                "en": "No sexual activity"
+            },
+            "1": {
+                "ar": "نادرًا أو أبدًا",
+                "en": "Almost never or never"
+            },
+            "2": {
+                "ar": "بضع مرات (أقل من نصف الوقت)",
+                "en": "A few times (less than half the time)"
+            },
+            "3": {
+                "ar": "أحيانًا (حوالي نصف الوقت)",
+                "en": "Sometimes (about half the time)"
+            },
+            "4": {
+                "ar": "معظم الوقت (أكثر من نصف الوقت)",
+                "en": "Most times (more than half the time)"
+            },
+            "5": {
+                "ar": "دائمًا أو تقريبًا دائمًا",
+                "en": "Almost always or always"
+            }
+        }
+    },
+    {
+        "index": 3,
+        "arabic_question": "عند محاولة الجماع، ما مدى تكرار قدرتك على إيلاج شريكك؟",
+        "english_question": "When you attempted intercourse, how often were you able to penetrate (enter) your partner?",
+        "answers": {
+            "0": {
+                "ar": "لم أحاول الجماع",
+                "en": "Did not attempt intercourse"
+            },
+            "1": {
+                "ar": "نادرًا أو أبدًا",
+                "en": "Almost never or never"
+            },
+            "2": {
+                "ar": "بضع مرات (أقل من نصف الوقت)",
+                "en": "A few times (less than half the time)"
+            },
+            "3": {
+                "ar": "أحيانًا (حوالي نصف الوقت)",
+                "en": "Sometimes (about half the time)"
+            },
+            "4": {
+                "ar": "معظم الوقت (أكثر من نصف الوقت)",
+                "en": "Most times (more than half the time)"
+            },
+            "5": {
+                "ar": "دائمًا أو تقريبًا دائمًا",
+                "en": "Almost always or always"
+            }
+        }
+    },
+    {
+        "index": 4,
+        "arabic_question": "أثناء الجماع، ما مدى تكرار قدرتك على الحفاظ على الانتصاب بعد الإيلاج؟",
+        "english_question": "During sexual intercourse, how often were you able to maintain your erection after you had penetrated your partner?",
+        "answers": {
+            "0": {
+                "ar": "لم أحاول الجماع",
+                "en": "Did not attempt intercourse"
+            },
+            "1": {
+                "ar": "نادرًا أو أبدًا",
+                "en": "Almost never or never"
+            },
+            "2": {
+                "ar": "بضع مرات (أقل من نصف الوقت)",
+                "en": "A few times (less than half the time)"
+            },
+            "3": {
+                "ar": "أحيانًا (حوالي نصف الوقت)",
+                "en": "Sometimes (about half the time)"
+            },
+            "4": {
+                "ar": "معظم الوقت (أكثر من نصف الوقت)",
+                "en": "Most times (more than half the time)"
+            },
+            "5": {
+                "ar": "دائمًا أو تقريبًا دائمًا",
+                "en": "Almost always or always"
+            }
+        }
+    },
+    {
+        "index": 5,
+        "arabic_question": "أثناء الجماع، ما مدى صعوبة الحفاظ على الانتصاب حتى نهاية الجماع؟",
+        "english_question": "During sexual intercourse, how difficult was it to maintain your erection to completion of intercourse?",
+        "answers": {
+            "0": {
+                "ar": "لم أحاول الجماع",
+                "en": "Did not attempt intercourse"
+            },
+            "1": {
+                "ar": "صعب للغاية",
+                "en": "Extremely difficult"
+            },
+            "2": {
+                "ar": "صعب جدًا",
+                "en": "Very difficult"
+            },
+            "3": {
+                "ar": "صعب",
+                "en": "Difficult"
+            },
+            "4": {
+                "ar": "صعب قليلًا",
+                "en": "Slightly difficult"
+            },
+            "5": {
+                "ar": "غير صعب",
+                "en": "Not difficult"
+            }
+        }
+    },
+    {
+        "index": 6,
+        "arabic_question": "كم مرة حاولت الجماع؟",
+        "english_question": "How many times have you attempted sexual intercourse?",
+        "answers": {
+            "0": {
+                "ar": "لم أحاول",
+                "en": "No attempts"
+            },
+            "1": {
+                "ar": "مرة إلى مرتين",
+                "en": "One to two attempts"
+            },
+            "2": {
+                "ar": "ثلاث إلى أربع مرات",
+                "en": "Three to four attempts"
+            },
+            "3": {
+                "ar": "خمس إلى ست مرات",
+                "en": "Five to six attempts"
+            },
+            "4": {
+                "ar": "سبع إلى عشر مرات",
+                "en": "Seven to ten attempts"
+            },
+            "5": {
+                "ar": "أحد عشر مرة أو أكثر",
+                "en": "Eleven or more attempts"
+            }
+        }
+    },
+    {
+        "index": 7,
+        "arabic_question": "عند محاولة الجماع، ما مدى تكرار أن يكون الجماع مُرضيًا بالنسبة لك؟",
+        "english_question": "When you attempted sexual intercourse, how often was it satisfactory for you?",
+        "answers": {
+            "0": {
+                "ar": "لم أحاول الجماع",
+                "en": "Did not attempt intercourse"
+            },
+            "1": {
+                "ar": "نادرًا أو أبدًا",
+                "en": "Almost never or never"
+            },
+            "2": {
+                "ar": "بضع مرات (أقل من نصف الوقت)",
+                "en": "A few times (less than half the time)"
+            },
+            "3": {
+                "ar": "أحيانًا (حوالي نصف الوقت)",
+                "en": "Sometimes (about half the time)"
+            },
+            "4": {
+                "ar": "معظم الوقت (أكثر من نصف الوقت)",
+                "en": "Most times (more than half the time)"
+            },
+            "5": {
+                "ar": "دائمًا أو تقريبًا دائمًا",
+                "en": "Almost always or always"
+            }
+        }
+    },
+    {
+        "index": 8,
+        "arabic_question": "ما مدى استمتاعك بالجماع؟",
+        "english_question": "How much have you enjoyed sexual intercourse?",
+        "answers": {
+            "0": {
+                "ar": "لم يحدث جماع",
+                "en": "No intercourse"
+            },
+            "1": {
+                "ar": "بدون استمتاع على الإطلاق",
+                "en": "No enjoyment at all"
+            },
+            "2": {
+                "ar": "غير ممتع",
+                "en": "Not very enjoyable"
+            },
+            "3": {
+                "ar": "ممتع إلى حد ما",
+                "en": "Fairly enjoyable"
+            },
+            "4": {
+                "ar": "ممتع جدًا",
+                "en": "Highly enjoyable"
+            },
+            "5": {
+                "ar": "ممتع للغاية",
+                "en": "Very highly enjoyable"
+            }
+        }
+    },
+    {
+        "index": 9,
+        "arabic_question": "مع التحفيز الجنسي أو الجماع، ما مدى تكرار حدوث القذف؟",
+        "english_question": "When you had sexual stimulation or intercourse, how often did you ejaculate?",
+        "answers": {
+            "0": {
+                "ar": "لا يوجد تحفيز جنسي أو جماع",
+                "en": "No sexual stimulation or intercourse"
+            },
+            "1": {
+                "ar": "نادرًا أو أبدًا",
+                "en": "Almost never or never"
+            },
+            "2": {
+                "ar": "بضع مرات",
+                "en": "A few times (less than half the time)"
+            },
+            "3": {
+                "ar": "أحيانًا",
+                "en": "Sometimes (about half the time)"
+            },
+            "4": {
+                "ar": "معظم الوقت",
+                "en": "Most times (more than half the time)"
+            },
+            "5": {
+                "ar": "دائمًا أو تقريبًا دائمًا",
+                "en": "Almost always or always"
+            }
+        }
+    },
+    {
+        "index": 10,
+        "arabic_question": "مع التحفيز الجنسي أو الجماع، ما مدى تكرار شعورك بالنشوة أو الذروة؟",
+        "english_question": "When you had sexual stimulation or intercourse, how often did you have the feeling of orgasm or climax?",
+        "answers": {
+            "1": {
+                "ar": "نادرًا أو أبدًا",
+                "en": "Almost never or never"
+            },
+            "2": {
+                "ar": "بضع مرات",
+                "en": "A few times (less than half the time)"
+            },
+            "3": {
+                "ar": "أحيانًا",
+                "en": "Sometimes (about half the time)"
+            },
+            "4": {
+                "ar": "معظم الوقت",
+                "en": "Most times (more than half the time)"
+            },
+            "5": {
+                "ar": "دائمًا أو تقريبًا دائمًا",
+                "en": "Almost always or always"
+            }
+        }
+    },
+    {
+        "index": 11,
+        "arabic_question": "ما مدى تكرار شعورك بالرغبة الجنسية؟",
+        "english_question": "How often have you felt sexual desire?",
+        "answers": {
+            "1": {
+                "ar": "نادرًا أو أبدًا",
+                "en": "Almost never or never"
+            },
+            "2": {
+                "ar": "بضع مرات",
+                "en": "A few times (less than half the time)"
+            },
+            "3": {
+                "ar": "أحيانًا",
+                "en": "Sometimes (about half the time)"
+            },
+            "4": {
+                "ar": "معظم الوقت",
+                "en": "Most times (more than half the time)"
+            },
+            "5": {
+                "ar": "دائمًا أو تقريبًا دائمًا",
+                "en": "Almost always or always"
+            }
+        }
+    },
+    {
+        "index": 12,
+        "arabic_question": "كيف تصنف مستوى رغبتك الجنسية؟",
+        "english_question": "How would you rate your level of sexual desire?",
+        "answers": {
+            "1": {
+                "ar": "منخفض جدًا أو معدوم",
+                "en": "Very low or none at all"
+            },
+            "2": {
+                "ar": "منخفض",
+                "en": "Low"
+            },
+            "3": {
+                "ar": "متوسط",
+                "en": "Moderate"
+            },
+            "4": {
+                "ar": "مرتفع",
+                "en": "High"
+            },
+            "5": {
+                "ar": "مرتفع جدًا",
+                "en": "Very high"
+            }
+        }
+    },
+    {
+        "index": 13,
+        "arabic_question": "ما مدى رضاك عن حياتك الجنسية بشكل عام؟",
+        "english_question": "How satisfied have you been with your overall sex life?",
+        "answers": {
+            "1": {
+                "ar": "غير راضٍ جدًا",
+                "en": "Very dissatisfied"
+            },
+            "2": {
+                "ar": "غير راضٍ إلى حد ما",
+                "en": "Moderately dissatisfied"
+            },
+            "3": {
+                "ar": "محايد",
+                "en": "Equally satisfied & dissatisfied"
+            },
+            "4": {
+                "ar": "راضٍ إلى حد ما",
+                "en": "Moderately satisfied"
+            },
+            "5": {
+                "ar": "راضٍ جدًا",
+                "en": "Very satisfied"
+            }
+        }
+    },
+    {
+        "index": 14,
+        "arabic_question": "ما مدى رضاك عن علاقتك الجنسية مع شريكك؟",
+        "english_question": "How satisfied have you been with your sexual relationship with your partner?",
+        "answers": {
+            "1": {
+                "ar": "غير راضٍ جدًا",
+                "en": "Very dissatisfied"
+            },
+            "2": {
+                "ar": "غير راضٍ إلى حد ما",
+                "en": "Moderately dissatisfied"
+            },
+            "3": {
+                "ar": "محايد",
+                "en": "Equally satisfied & dissatisfied"
+            },
+            "4": {
+                "ar": "راضٍ إلى حد ما",
+                "en": "Moderately satisfied"
+            },
+            "5": {
+                "ar": "راضٍ جدًا",
+                "en": "Very satisfied"
+            }
+        }
+    },
+    {
+        "index": 15,
+        "arabic_question": "ما مدى ثقتك في قدرتك على الحصول على انتصاب والحفاظ عليه؟",
+        "english_question": "How do you rate your confidence that you could get and keep an erection?",
+        "answers": {
+            "1": {
+                "ar": "منخفضة جدًا",
+                "en": "Very low"
+            },
+            "2": {
+                "ar": "منخفضة",
+                "en": "Low"
+            },
+            "3": {
+                "ar": "متوسطة",
+                "en": "Moderate"
+            },
+            "4": {
+                "ar": "مرتفعة",
+                "en": "High"
+            },
+            "5": {
+                "ar": "مرتفعة جدًا",
+                "en": "Very high"
+            }
+        }
+    }
+]
